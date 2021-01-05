@@ -1,6 +1,6 @@
 # mastering_python_networking
-based on the book 'Mastering Python Networking  (Eric Chou, 2nd edition, 2017)
-This is the repository for code based on [Mastering Python Networking - Second Edition](https://www.packtpub.com/networking-and-servers/mastering-python-networking-second-edition?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781789135992)
+This is the repository for code based on the book ['Mastering Python Networking (Eric Chou, 2nd edition, 2017)]
+(https://www.packtpub.com/networking-and-servers/mastering-python-networking-second-edition?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781789135992)
 
 
 ## What is this book about?
