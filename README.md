@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 | 1-13     | Ubuntu 20.04 or other Linux Distribution, Python 3.5+ | Linux                              |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringPythonNetworkingSecondEdition_ColorImages.pdf).
+There is also a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringPythonNetworkingSecondEdition_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
 * Practical Network Automation [[Packt]](https://www.packtpub.com/networking-and-servers/practical-network-automation?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788299466) [[Amazon]](https://www.amazon.com/dp/1788299469)
