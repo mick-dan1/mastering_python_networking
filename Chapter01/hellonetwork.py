@@ -11,7 +11,7 @@ print('hello network!')
 '''
 you can do it slightly different:
 '''
-from math_stuff.subtract import subtract     # from package.module import function
+from math_stuff.subtract import subtract     # from package/module import function
 result = subtract(34, 1)   # calling function to use
 print(result)
 
